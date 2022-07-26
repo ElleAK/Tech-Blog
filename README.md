@@ -27,6 +27,8 @@
   #### Lindsey Kelly
 
   ## Deployed Site:
+  #### https://tech-blog-creation.herokuapp.com/
+  ## Github
   #### https://elleak.github.io/Tech-Blog/
 
   ## License: ![License: ODbL](https://img.shields.io/badge/License-PDDL-brightgreen.svg)
