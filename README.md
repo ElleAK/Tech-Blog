@@ -15,7 +15,7 @@
 
   ## Installation:
   #### Before using this application please install:
-  #### express-handlebars, mysql2, dotenv, express, connect-session-sequelize, express-session
+  #### express-handlebars, mysql2, dotenv, express, connect-session-sequelize, express-session, bcrypt, 
 
   ## Technologies:
   #### Javascript, Node, Express, Sequelize, Handlebars, CSS
